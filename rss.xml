@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[boldcoast]]></title>
+        <description><![CDATA[boldcoast]]></description>
+        <link>https://thegrid.ai/boldcoast/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 03:42:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boldcoast/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/boldcoast/f5d3652c-9ad4-40a7-979d-3607aca6b531/index.html</link>
+            <guid isPermaLink="false">f5d3652c-9ad4-40a7-979d-3607aca6b531</guid>
+            <pubDate>Fri, 15 Jan 2016 03:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dec4c840-bce2-4919-ab8d-c98b87f6b94b.jpg">]]></description>
+            <link>https://thegrid.ai/boldcoast/5cc5d3bb-7386-455d-b6be-be0685d3331c/index.html</link>
+            <guid isPermaLink="false">5cc5d3bb-7386-455d-b6be-be0685d3331c</guid>
+            <pubDate>Fri, 15 Jan 2016 03:42:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
